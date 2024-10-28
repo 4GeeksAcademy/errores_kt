@@ -1,0 +1,11 @@
+li:hover>*{
+    visibility: visible;
+
+}
+.icono-oculto{
+    visibility:hidden;
+  
+}
+.fa-solid{
+    color: blue;
+}
